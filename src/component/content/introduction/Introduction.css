@@ -1,0 +1,12 @@
+.home-bg {
+    background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/06/Free-Images-Wallpaper-HD-Background.jpg');
+    object-fit: cover;
+    width: 100%;
+}
+
+.greet {
+    font-family: 'Verdana';
+    font-size: 7vh;
+    text-transform: uppercase;
+    font-weight: bold;
+}
