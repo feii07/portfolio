@@ -46,8 +46,8 @@ const Skills = () => {
                         {
                         skills.map((item, key) => {
                             return (
-                                <div className="col-md-3 col-6 mb-3">
-                                    <div className="card" key={`item-${key}`}>
+                                <div className="col-md-3 col-6 mb-3" key={`item-${key}`}>
+                                    <div className="card">
                                         <div className="card-body">
                                             <img className="skills-logo" src={item.img} alt={item.text}/>
                                             <span>{item.text}</span>
