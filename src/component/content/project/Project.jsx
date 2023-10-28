@@ -7,7 +7,7 @@ import { faUikit } from "@fortawesome/free-brands-svg-icons";
 const projects = [
     {
         type: 1,
-        image: "./porfolio/img/project/web/chewon.png",
+        image: "././porfolio/img/project/web/chewon.png",
         title: "Gistex Chewon",
         description: "is a company website of Gistex Chewon to introduce the company to customer.",
         code: "Heroku, Wordpress"
