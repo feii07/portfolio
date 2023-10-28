@@ -1,6 +1,6 @@
 import './Contact.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faInstagram, faLinkedin, faFacebook, faGithub, faGit } from "@fortawesome/free-brands-svg-icons";
+import { faInstagram, faLinkedin, faFacebook, faGithub} from "@fortawesome/free-brands-svg-icons";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 
 const skills = [
