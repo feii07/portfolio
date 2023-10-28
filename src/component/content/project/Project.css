@@ -209,8 +209,7 @@ a {
     display: flex;
     justify-content: center;
     cursor: pointer;
-    width: 22em;
-    max-width: 80%;
+    width: 100%;
     padding: 2em 0;
     background: #fff;
     box-shadow: 0 0 6px 0 rgba(32, 32, 36, .12);
@@ -240,9 +239,11 @@ a {
     width: 18em;
     max-width: 90%;
 }
-.card-project .logo {
+.card-project .card-img {
     margin: 0 0 1em;
     width: 100%;
+    max-height: 25vh;
+    object-fit: cover;
     transition: all 0.35s ease;
 }
 .card-project h6 {
@@ -278,7 +279,7 @@ a {
     opacity: 0;
     transition: width 0 ease;
 }
-.card-project:hover .logo {
+.card-project:hover .card-img {
     margin-bottom: 0.5em;
 }
 .card-project:hover .hover_content {

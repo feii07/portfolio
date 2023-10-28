@@ -7,7 +7,7 @@ class App extends Component {
     render(){
         return (
             <div className="container-fluid">
-                <div className="row flex-nowrap">
+                <div className="row">
                     <Sidebar/>
                     <Content/>
                 </div>
