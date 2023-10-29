@@ -265,7 +265,7 @@ a {
     line-height: 1.4em;
 }
 .card-project:hover {
-    width: 24em;
+    width: 100%;
     box-shadow: 0 10px 20px 0 rgba(32, 32, 36, .12);
 }
 .card-project:hover::before {

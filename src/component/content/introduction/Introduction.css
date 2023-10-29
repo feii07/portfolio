@@ -1,5 +1,5 @@
 .home-bg {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.74)) , url('/public/img/bg/bg.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.74)) , url('https://raw.githubusercontent.com/feii07/portfolio/master/public/img/bg/bg.jpg');
     background-size: cover;
     color: white;
 }
