@@ -1,3 +1,4 @@
+import React from 'react';
 import './Contact.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faInstagram, faLinkedin, faFacebook, faGithub} from "@fortawesome/free-brands-svg-icons";

@@ -1,5 +1,5 @@
 .h-profile {
-    max-height: 20vh;
-    max-width: 20vw;
+    height: 200px;
+    width: 200px;
     object-fit: cover;
 }

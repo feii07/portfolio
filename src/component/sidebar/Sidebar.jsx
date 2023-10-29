@@ -36,7 +36,7 @@ const Sidebar = () => {
     <div className="col-0 col-xl-2 px-sm-2 px-0 bg-dark d-none d-md-none d-xl-block position-fixed">
       <div className="d-flex flex-column align-items-center align-items-sm-start px-3 pt-2 text-white min-vh-100 ">
         <div className="navbar-header text-center my-4">
-          <img src="./portfolio/img/profile/profile.jpg" className="rounded-circle mx-auto d-block img-fluid center-block w-75 h-profile my-3" alt="fera" />
+          <img src="./portfolio/img/profile/profile.jpg" className="rounded-circle mx-auto d-block img-fluid center-block h-profile my-3" alt="fera" />
           <span className="fs-5 ms-1 d-block text-white ml-2 text-uppercase"> Ferani Christy </span>
           <span className="text-secondary">Web Developer / UI Designer</span>
 
