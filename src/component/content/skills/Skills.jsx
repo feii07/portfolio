@@ -8,7 +8,7 @@ const skills = [
     },
     {
         text: "CSS",
-        img: "https://devsouth.us/images/css3_badge.png",
+        img: "https://brandslogos.com/wp-content/uploads/images/large/css-logo.png",
     },
     {
         text: "PHP",
@@ -16,7 +16,7 @@ const skills = [
     },
     {
         text: "Javascript",
-        img: "https://logosdownload.com/logo/javascript-logo-big.png",
+        img: "https://images.seeklogo.com/logo-png/30/2/java-script-js-logo-png_seeklogo-303341.png",
     },
     {
         text: "Laravel",
