@@ -8,7 +8,7 @@ const skills = [
     },
     {
         text: "CSS",
-        img: "https://brandslogos.com/wp-content/uploads/images/large/css-logo.png",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png",
     },
     {
         text: "PHP",
